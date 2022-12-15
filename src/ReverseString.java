@@ -10,6 +10,5 @@ public class ReverseString {
         input.append(text);
         input.reverse();
         System.out.println("The reversed string is: "+input);
-
     }
 }
